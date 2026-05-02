@@ -1,0 +1,5 @@
+DB_HOST=db
+DB_USER=labuser
+DB_PASS=labpass
+DB_NAME=labdb
+DB_ROOT_PASSWORD=rootpass
